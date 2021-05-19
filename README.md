@@ -1,5 +1,5 @@
-👋 Hi, I’m Nivin Sajanaka
-📫 Reach me via [Linkedln](https://www.linkedin.com/in/sajanaka-hennadige-1518bb1b6/)
+- 👋 Hi, I’m Nivin Sajanaka
+- 📫 Reach me via [Linkedln](https://www.linkedin.com/in/sajanaka-hennadige-1518bb1b6/)
 
 <!--
 **sajanaka00/sajanaka00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
